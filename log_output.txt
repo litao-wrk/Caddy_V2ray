@@ -1,0 +1,14 @@
+=====================================
+V2ray 配置信息
+地址（address）: litkmlv6.tkvpscdn636.cf
+端口（port）： 443
+用户id（UUID）： a8660c9d-17ca-4165-8bbc-6aa18d1c2756
+加密方式（security）： 自适应
+传输协议（network）： ws
+伪装类型（type）： none
+路径（不要落下/）： /8569fa0c7/
+底层传输安全： tls
+=====================================
+=========复制以下内容进行导入==========
+vmess://ewogICAgInYiOiAiMiIsCiAgICAicHMiOiAibGl0a21sdjYudGt2cHNjZG42MzYuY2YiLAogICAgImFkZCI6ICJsaXRrbWx2Ni50a3Zwc2NkbjYzNi5jZiIsCiAgICAicG9ydCI6ICI0NDMiLAogICAgImlkIjogImE4NjYwYzlkLTE3Y2EtNDE2NS04YmJjLTZhYTE4ZDFjMjc1NiIsCiAgICAiYWlkIjogIjAiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAidHlwZSI6ICJub25lIiwKICAgICJob3N0IjogImxpdGttbHY2LnRrdnBzY2RuNjM2LmNmIiwKICAgICJwYXRoIjogIi84NTY5ZmEwYzcvIiwKICAgICJ0bHMiOiAidGxzIgp9
+=========复制以上内容进行导入==========
